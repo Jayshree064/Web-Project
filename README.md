@@ -1,5 +1,5 @@
 # Web-Project
-WEB-DEV BOOTCA1MP
+WEB-DEV BOOTCA1MP<br>
 Hi My name is Jayshree. I made this small website using only HTML and CSS.
 I made this project during the 7 day free Bootcamp conducted by <b>SHAPEAI</b>
 The instructor during the session was Mr.Shaurya Sinha (Data Analyst Intern at Jio). 
@@ -15,7 +15,7 @@ I enjoyed these 7 days, you can as well. To register for next free 7 days bootca
 <li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><ahref="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
 be</a>
-<li><a href="https://github.com/shapeai">GitHub</a>
+<li><a href="https://github.com/shapeai">GitHub</a></li>
 The sessions and bootcamp are interactive and useful.
 I enjoy this 7 day of learning.
-  i want to thanks to SHAPEAI.
+I want to thanks to SHAPEAI.
